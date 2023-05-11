@@ -56,7 +56,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Roman`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "A Web Developer", "A Big Brother", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Hello and welcome to my web development portfolio! My name is [Your Name], and I'm a web developer passionate about creating clean, responsive, and user-friendly websites. With [Number of Years] of experience in the industry, I have worked on a variety of projects ranging from small business websites to complex web applications. My goal is to deliver high-quality, efficient, and effective web solutions that meet my clients' needs and exceed their expectations. Please take a moment to explore my portfolio and learn more about my skills, experience, and approach to web development. Thank you for visiting!"</p>
+                  <p>Hello and welcome to my web development portfolio! My name is Roman James, and I'm a web developer passionate about creating clean, responsive, and user-friendly websites.I have worked on a variety of projects ranging from small business websites to complex web applications. My goal is to deliver high-quality, efficient, and effective web solutions that meet my clients' needs and exceed their expectations. Please take a moment to explore my portfolio and learn more about my skills, experience, and approach to web development. Thank you for visiting!"</p>
               </div>}
             </TrackVisibility>
           </Col>
