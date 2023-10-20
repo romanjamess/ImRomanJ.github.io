@@ -1,7 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/Thingamabobs.png";
-import projImg2 from "../assets/img/techBlog.png";
+import projImg2 from "../assets/img/image.png";
 import projImg3 from "../assets/img/MoMart.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -16,8 +16,8 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "Tech Blog",
-      description: "Blogger Website",
+      title: "The Krusty Krab",
+      description: "Store website",
       imgUrl: projImg2,
     },
     {
