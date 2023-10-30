@@ -25,7 +25,7 @@ Thank you for taking the time to learn more about me!
 
 # Usage
 
-To view my portfolio, simply navigate to (https://romanjamess.github.io/ReactPortfolio/). From there, you can browse through the projects I have included and click on the links to view the live demos and/or source code on GitHub.
+To view my portfolio, simply navigate to (https://romanjamess.github.io/ImRomanJ.github.io/). From there, you can browse through the projects I have included and click on the links to view the live demos and/or source code on GitHub.
 
 If you are interested in collaborating with me or would like to discuss a potential project, please feel free to reach out to me at Jamesrtx2@gmail.com or through the contact form on my website. I would be happy to connect and discuss any opportunities.
 
